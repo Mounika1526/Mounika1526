@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mounika1526&label=Profile%20views&color=0e75b6&style=flat" alt="mounika1526" /> </p>
 
-- 🔭 I’m currently studying **BTech 3rd year**
+- 🔭 I’m currently studying **BTech 4th year**
 
-- 🌱 I’m currently learning **HTML,CSS, Python,Java**
+- 🌱 I’m currently learning **React JS and Angular JS**
 
 - 📫 How to reach me **seerammounika2002@gmail.com**
 
