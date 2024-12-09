@@ -4,11 +4,11 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mounika1526&label=Profile%20views&color=0e75b6&style=flat" alt="mounika1526" /> </p>
 
-- 🔭 I’m currently studying **BTech 4th year**
+- 🔭 I’m currently working as a **Frontend Developer at ActaNos**
 
-- 🌱 I’m currently learning **React JS and Angular JS**
+- 🌱 I’m currently working **Tanstack**
 
-- 📫 How to reach me **seerammounika2002@gmail.com**
+- 📫 How to reach me **seerammounika1526@gmail.com**
 
 - ⚡ Fun fact **I am too funny with friends**
 
